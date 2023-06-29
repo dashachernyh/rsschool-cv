@@ -1,11 +1,20 @@
 # **CV**
+<style>
+   .round {
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid sandybrown; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+   }
+</style>
+<img src="https://avatars.githubusercontent.com/u/55274971?v=4" width="100" height="111" class="round">  
+
 1. Daria Chernyh
 2. My contact:
    * Phone: +7 (999) 136-78-06
    * Email: dasha.chernyh.00@gmail.com
    * Telegram: @d_chernyh
 3. Brief information:
-   >I'm a second-year Master's student at the National Research Lobachevsky State University of Nizhny Novgorod. 
+   >I'm a second-year Master's student at the Lobachevsky University. 
    > I'm studying in the Applied Mathematics and Informatics faculty, focusing on research in [global optimization methods][1].
    > My aim is to gain experience at an IT company, work in real-time scenarios, and enhance my knowledge and professional
    > skills. Although I don't have extensive experience in the IT field, I have the desire and ability to quickly learn 
@@ -30,7 +39,7 @@
      * Clion
      * PyCharm
 5. Code example on [LeetCode](https://leetcode.com/):
-   >    [2217/. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) 
+   >    [2217\. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) 
    >    Given an integer array `queries` and a **positive** integer `intLength`, return *an array* `answer` *where* `answer[i]`
    >    is *either* the `queries[i]th` *smallest* ***positive palindrome*** *of length* `intLength` *or* `-1` *if no such 
    >    palindrome exists*.
