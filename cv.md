@@ -1,11 +1,4 @@
 # **CV**
-<style>
-   .round {
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid sandybrown; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
-   }
-</style>
 <img src="https://avatars.githubusercontent.com/u/55274971?v=4" width="100" height="111" class="round">  
 
 1. Daria Chernyh
